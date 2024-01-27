@@ -14,7 +14,8 @@
 
 ### [Hybrid-based Book Recommendation System](https://github.com/Veto2922/hybrid-based-book-recommender-systems)
 * The Hybrid-based Book Recommendation System encompasses an end-to-end development process, incorporating data exploration, cleaning, and the implementation of both content-based and collaborative filtering recommendation systems using Python.
-* project steps : ![Block digram](https://github.com/Veto2922/veto2922/assets/114834171/85b2f90c-f0eb-4be4-8863-e369b4f1566d)
+* project steps :
+         ![Block digram](https://github.com/Veto2922/veto2922/assets/114834171/85b2f90c-f0eb-4be4-8863-e369b4f1566d)
 * **Project article**: [Medium](https://medium.com/@abdelrahman.m2922/book-recommendation-system-fa510e2d5a24)
 
 ### [Movie Recommendation System](https://github.com/Veto2922/Movie-Recommender-System-content-based-)
