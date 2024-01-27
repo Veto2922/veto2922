@@ -11,6 +11,12 @@
 * project web site : [SteamLit](https://techskillsmap.streamlit.app/)
 
 
+
+### [Hybrid-based Book Recommendation System](https://github.com/Veto2922/hybrid-based-book-recommender-systems)
+* The Hybrid-based Book Recommendation System encompasses an end-to-end development process, incorporating data exploration, cleaning, and the implementation of both content-based and collaborative filtering recommendation systems using Python.
+* project steps : ![Block digram](https://github.com/Veto2922/veto2922/assets/114834171/85b2f90c-f0eb-4be4-8863-e369b4f1566d)
+* **Project article**: [Medium](https://medium.com/@abdelrahman.m2922/book-recommendation-system-fa510e2d5a24)
+
 ### [Movie Recommendation System](https://github.com/Veto2922/Movie-Recommender-System-content-based-)
 * This project is dedicated to constructing an advanced movie recommendation system by leveraging popularity and content-based filtering. The model integrates diverse data features, such as genres, cast, crew, overview, release year, runtime, keywords, vote average, and director information, obtained from a comprehensive dataset of several thousand films. The recommendation system employs advanced techniques like cosine similarity and Euclidean distance to enhance the accuracy and personalization of movie suggestions.
 * project steps : Features selection ,Data cleaning ,Feature Engineering ,Data preprocessing  , Similarity Matrix ,prediction app ,Deployment
@@ -71,6 +77,8 @@
 * __[Rank and Knowledge base](https://github.com/Veto2922/Recommendation-system-course/tree/main/Task%201%20Rank-Based%2BKnowledge-Based%20Recommendations)__
 
 * [Content based](https://github.com/Veto2922/Movie-Recommender-System-content-based-)
+
+* [Hybrid-based Book Recommendation System](https://github.com/Veto2922/hybrid-based-book-recommender-systems)
 ---
 
 
