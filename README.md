@@ -82,6 +82,24 @@
 * [Hybrid-based Book Recommendation System](https://github.com/Veto2922/hybrid-based-book-recommender-systems)
 ---
 
+## Time series analysis and forecast
+
+
+---
+
+## Deep Learning:
+--- 
+### Regression
+
+---
+### Classification 
+
+
+----
+
+
+
+
 
 
 <!--
