@@ -89,11 +89,13 @@
 
 ## Deep Learning:
 --- 
-### Regression
+### ANN
+
 
 ---
-### Classification 
+### CNN 
 
+* __[Image Classification with CNN and Transfer learning ](https://github.com/Veto2922/Cats-and-Dogs-image-classification-using-CNN/tree/main)__: This project utilizes a Convolutional Neural Network (CNN) with TensorFlow and Keras to classify cat and dog images. It demonstrates transfer learning with the VGG16 model, improving model performance and reducing training time. Additionally, it offers insights into interpreting model decisions, aiding in understanding how the CNN makes predictions based on learned features from the images.
 
 ----
 
