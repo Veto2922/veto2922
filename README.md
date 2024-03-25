@@ -98,7 +98,14 @@
 * __[Image Classification with CNN and Transfer learning ](https://github.com/Veto2922/Cats-and-Dogs-image-classification-using-CNN/tree/main)__: This project utilizes a Convolutional Neural Network (CNN) with TensorFlow and Keras to classify cat and dog images. It demonstrates transfer learning with the VGG16 model, improving model performance and reducing training time. Additionally, it offers insights into interpreting model decisions, aiding in understanding how the CNN makes predictions based on learned features from the images.
 
 ----
+### RNN
 
+
+---
+### SOMs
+* __[Self Organizing Map for Fraud Detection](https://github.com/Veto2922/Self-Organizing-Map-for-Fraud-Detection/tree/main)__: implementation of a Self-Organizing Map (SOM) for detecting fraud in credit card applications. The SOM is trained on a dataset of credit card applications to learn patterns and identify potential outliers that may indicate fraudulent activities.
+
+---
 
 
 
