@@ -4,6 +4,15 @@
 
 ## End to End Projects ##
 
+### [Web Application Firewall based on ML and NLP](https://github.com/Veto2922/Web-Application-Firewall-based-on-ML-and-NLP)
+* The Web Application Firewall (WAF) project is aimed at developing a robust and comprehensive solution to safeguard web applications against a wide range of security threats. The project incorporates machine learning techniques for threat detection, real-time monitoring, and response mechanisms to protect web applications from common attacks such as Cross-Site Scripting (XSS), SQL Injection (SQLI), Command Injection (CMDI), and Path Traversal (PATHT).
+* **Project Paper:** [Project Paper Link](https://drive.google.com/file/d/1xhJiBsxgZ-nALevpSkK9f_Lcj4FGQE2c/view)
+
+* **Project Video:** [Project Video Link](https://drive.google.com/file/d/1-UlhEx3tYo8vXR7kRDoakTFnEed10TML/view)
+
+* **Project Website:** [Project Website Link](https://waf-app.onrender.com/login?next=%2F)
+
+
 ### [Tech Skills Map](https://github.com/Veto2922/Tech_Skills_Map-End-to-End-data-science-project-)
 * This application helps you find the most suitable job based on your technological skills. Additionally, it suggests skills to develop further in your chosen field.
 * project steps : Features selection ,Data cleaning ,Feature Engineering ,EDA ,Data preprocessing ,Modeling ,prediction pipeline ,Deployment
@@ -14,8 +23,6 @@
 
 ### [Hybrid-based Book Recommendation System](https://github.com/Veto2922/hybrid-based-book-recommender-systems)
 * The Hybrid-based Book Recommendation System encompasses an end-to-end development process, incorporating data exploration, cleaning, and the implementation of both content-based and collaborative filtering recommendation systems using Python.
-* project steps :
-         ![Block digram](https://github.com/Veto2922/veto2922/assets/114834171/85b2f90c-f0eb-4be4-8863-e369b4f1566d)
 * **Project article**: [Medium](https://medium.com/@abdelrahman.m2922/book-recommendation-system-fa510e2d5a24)
 
 ### [Movie Recommendation System](https://github.com/Veto2922/Movie-Recommender-System-content-based-)
