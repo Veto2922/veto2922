@@ -113,8 +113,8 @@
 * __[Self Organizing Map for Fraud Detection](https://github.com/Veto2922/Self-Organizing-Map-for-Fraud-Detection/tree/main)__: implementation of a Self-Organizing Map (SOM) for detecting fraud in credit card applications. The SOM is trained on a dataset of credit card applications to learn patterns and identify potential outliers that may indicate fraudulent activities.
 
 ---
-
-
+### AutoEncoder
+* __[AutoEncoder for Movie Recommendations](https://github.com/Veto2922/AutoEncoder-for-Movie-Recommendations/tree/main)__: This project implements a Stacked AutoEncoder (SAE) for movie recommendations using PyTorch. The SAE is trained on the MovieLens 100k dataset to learn the underlying patterns in user-movie interactions and predict ratings for unrated movies.
 
 
 
