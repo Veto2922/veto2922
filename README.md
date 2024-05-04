@@ -117,6 +117,12 @@
 * __[AutoEncoder for Movie Recommendations](https://github.com/Veto2922/AutoEncoder-for-Movie-Recommendations/tree/main)__: This project implements a Stacked AutoEncoder (SAE) for movie recommendations using PyTorch. The SAE is trained on the MovieLens 100k dataset to learn the underlying patterns in user-movie interactions and predict ratings for unrated movies.
 
 
+## Natural Language Processing (NLP):
+--- 
+* __[Text classification using TFIDF](https://colab.research.google.com/drive/10JI8nvJL5kZ84d2gRi3VwwDMY2WL4ZlS?usp=sharing)__: The goal of this project is to develop a machine learning model that can accurately classify tweets as either related to real disasters or not.
+
+
+
 
 <!--
 **Veto2922/veto2922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
