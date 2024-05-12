@@ -121,7 +121,7 @@
 --- 
 * __[Text classification using TFIDF](https://colab.research.google.com/drive/10JI8nvJL5kZ84d2gRi3VwwDMY2WL4ZlS?usp=sharing)__: The goal of this project is to develop a machine learning model that can accurately classify tweets as either related to real disasters or not.
 
-* __[text Classification using GloVe](https://colab.research.google.com/drive/1W6kHzMh7jX5y6JZV731teVVRKyyMpg_u?usp=sharing)__: This project employs LSTM neural networks for text classification on disaster-related messages. It preprocesses and tokenizes text data, utilizes pre-trained word embeddings, and trains the model with Keras. Finally, it evaluates the model's performance, generates predictions, and creates a submission file for Kaggle competition.
+* __[Text Classification with GloVe and LSTM](https://colab.research.google.com/drive/1W6kHzMh7jX5y6JZV731teVVRKyyMpg_u?usp=sharing)__: This project employs LSTM neural networks for text classification on disaster-related messages. It preprocesses and tokenizes text data, utilizes pre-trained word embeddings, and trains the model with Keras. Finally, it evaluates the model's performance, generates predictions, and creates a submission file for Kaggle competition.
 
 
 
