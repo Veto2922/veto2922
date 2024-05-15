@@ -98,6 +98,8 @@
 --- 
 ### ANN
 
+* __[Tanserflow and keras regression](https://colab.research.google.com/drive/1iuFkq_R-8jfBVDSdLUDOOnySf16mG5D1?usp=sharing)__: This project analyzes housing data using Pandas, NumPy, and TensorFlow & keras. It explores data distribution, geographical properties, and performs feature engineering. A neural network model is built, trained, and evaluated for predicting house prices, achieving insights and predictions.
+
 
 ---
 ### CNN 
