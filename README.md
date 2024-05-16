@@ -100,6 +100,8 @@
 
 * __[Tanserflow and keras regression](https://colab.research.google.com/drive/1iuFkq_R-8jfBVDSdLUDOOnySf16mG5D1?usp=sharing)__: This project analyzes housing data using Pandas, NumPy, and TensorFlow & keras. It explores data distribution, geographical properties, and performs feature engineering. A neural network model is built, trained, and evaluated for predicting house prices, achieving insights and predictions.
 
+* __[Tanserflow and keras classification](https://colab.research.google.com/drive/169CJUosBsreu5rS-qFrAj39mTyu7nvP2?usp=sharing)__: The project conducts t-tests on each feature to assess its significance in predicting a binary target variable (breast cancer diagnosis). It then selects features with p-values below a significance level (0.05). The data is split into training and testing sets, scaled, and used to train a neural network model. 
+And addresses overfitting by implementing early stopping and dropout techniques in the neural network model
 
 ---
 ### CNN 
