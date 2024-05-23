@@ -112,6 +112,8 @@ And addresses overfitting by implementing early stopping and dropout techniques 
 
 * __[Image Classification with CNN and Transfer learning ](https://github.com/Veto2922/Cats-and-Dogs-image-classification-using-CNN/tree/main)__: This project utilizes a Convolutional Neural Network (CNN) with TensorFlow and Keras to classify cat and dog images. It demonstrates transfer learning with the VGG16 model, improving model performance and reducing training time. Additionally, it offers insights into interpreting model decisions, aiding in understanding how the CNN makes predictions based on learned features from the images.
 
+* __[Malaria Cell Image Classification](https://github.com/Veto2922/Malaria-Cell-Image-Classification)__: This project aims to classify cell images as either parasitized or uninfected using a Convolutional Neural Network (CNN). The dataset consists of cell images with labels indicating whether the cells are parasitized by the malaria parasite or not. The goal is to build and train a CNN model that can accurately classify the cell images.
+
 ----
 ### RNN
 
