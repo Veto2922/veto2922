@@ -91,6 +91,9 @@
 
 ## Time series analysis and forecast
 
+* [Monthly Retail Sales Forecasting](https://github.com/Veto2922/Advance-Monthly-Retail-Sales-Forecasting):
+  This project involves forecasting the monthly sales for clothing and clothing accessory stores using LSTM (Long Short-Term Memory) neural networks. The dataset consists of monthly sales data (in millions of dollars, not seasonally adjusted) retrieved from the FRED, Federal Reserve Bank of St. Louis.
+
 * [Time series forecasting using LSTM](https://github.com/Veto2922/TIme-series-forecasting-using-LSTM/tree/main)
 ---
 
@@ -115,8 +118,12 @@ And addresses overfitting by implementing early stopping and dropout techniques 
 * __[Malaria Cell Image Classification](https://github.com/Veto2922/Malaria-Cell-Image-Classification)__: This project aims to classify cell images as either parasitized or uninfected using a Convolutional Neural Network (CNN). The dataset consists of cell images with labels indicating whether the cells are parasitized by the malaria parasite or not. The goal is to build and train a CNN model that can accurately classify the cell images.
 
 ----
-### RNN
+### RNN and LSTMs
 
+* [Monthly Retail Sales Forecasting](https://github.com/Veto2922/Advance-Monthly-Retail-Sales-Forecasting):
+  This project involves forecasting the monthly sales for clothing and clothing accessory stores using LSTM (Long Short-Term Memory) neural networks. The dataset consists of monthly sales data (in millions of dollars, not seasonally adjusted) retrieved from the FRED, Federal Reserve Bank of St. Louis.
+
+[Time series forecasting using LSTM](https://github.com/Veto2922/TIme-series-forecasting-using-LSTM/tree/main)
 
 ---
 ### SOMs
