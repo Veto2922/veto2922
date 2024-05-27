@@ -140,6 +140,13 @@ And addresses overfitting by implementing early stopping and dropout techniques 
 
 * __[Text Classification with GloVe and LSTM](https://colab.research.google.com/drive/1W6kHzMh7jX5y6JZV731teVVRKyyMpg_u?usp=sharing)__: This project employs LSTM neural networks for text classification on disaster-related messages. It preprocesses and tokenizes text data, utilizes pre-trained word embeddings, and trains the model with Keras. Finally, it evaluates the model's performance, generates predictions, and creates a submission file for Kaggle competition.
 
+* __[Text Generation with GRU](https://colab.research.google.com/drive/1mixPpl1DGjgSGhu2sYTx4Jyd4p1NHrjs?usp=sharing)__:
+  This code employs TensorFlow and Keras to build a text generation model.
+It preprocesses Shakespearean text data, creating sequences for training.
+The model architecture includes an Embedding layer and a GRU layer.
+After training, the model can generate text based on given starting seeds.
+This approach facilitates the generation of coherent text sequences.
+
 
 
 
