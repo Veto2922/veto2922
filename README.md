@@ -131,6 +131,9 @@ And addresses overfitting by implementing early stopping and dropout techniques 
 
 ---
 ### AutoEncoder
+
+* __[AutoEncoders for Dimensionality Reduction](https://colab.research.google.com/drive/1wwygcu8BoizapvfIOBLuJTEO-3qcPYnX?usp=sharing)__
+
 * __[AutoEncoder for Movie Recommendations](https://github.com/Veto2922/AutoEncoder-for-Movie-Recommendations/tree/main)__: This project implements a Stacked AutoEncoder (SAE) for movie recommendations using PyTorch. The SAE is trained on the MovieLens 100k dataset to learn the underlying patterns in user-movie interactions and predict ratings for unrated movies.
 
 
