@@ -139,7 +139,7 @@ And addresses overfitting by implementing early stopping and dropout techniques 
 ---
 ### Generative Adversarial Networks (GANs)
 
-* __[Simaple GAN](https://colab.research.google.com/drive/1Hi8zGpI5OWCHNXumr65ue8Ne3shPeNmS?usp=sharing)__
+* __[Simple GAN](https://colab.research.google.com/drive/1Hi8zGpI5OWCHNXumr65ue8Ne3shPeNmS?usp=sharing)__
 
 * __[DCGAN](https://colab.research.google.com/drive/18FE2XLWu530LT6SfRXAiHt88ZSwX2zV8?usp=sharing)__
 
