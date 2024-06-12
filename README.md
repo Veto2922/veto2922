@@ -13,7 +13,7 @@
 * **Project Website:** [Project Website Link](https://waf-app.onrender.com/login?next=%2F)
 
 
-
+----
 ### [Strength Training Tracker (Using Accelerometer and Gyroscope data)](https://github.com/Veto2922/Fitness-tracker-based-on-ML-2)
 * This project is the improved version of [Dave Ebbelaar’s master's degree project:](https://secure-res.craft.do/v2/DkCrM8qa8MpqYUv1hZTca1NmEQN8BUD3jgq4E4hUHHYsSECHyPEAMTuaPRwgmvY9KMGbjTiSXxGeD7e4SJpRu6vjQCpDRVbKBT3ywX4ZgDEdyoWBQqxvdJYxVxyQcMqvptguFPNpAqP4UWV7Ub9hpX9iyYUdXqXhQy4foenh4nasYefmgkpSP3MFzrPaz2Ma6jwhTCgzJSMEvfdNeAywK2Mz1JNqaAk8jUwyVp8zpBNxcQzDiwmvvnWdapkVkZmwRTkNbF3iKM5qbMWgnpQa2fhcEzXebG7qq3tC6etT9mErJRZSBrhEXkvDCRhLnsMD9vPzLALSyuBuX9DR6vfKUUs7qEPXArtHkU52wtg2oWfJShZeHcigvgQhbfgXY1o8QAV8W35YeqQYeVZ8SHwZt9TsfkhUEHReUVBYH7hKKdYEjtsJnkkCZ4ncoC9PSdQsSr8BTb9MbvyZTQfEgvBP2HqmtcM45ZLkj/Mini%20Master%20Project%20-%20Exploring%20the%20Possibilities%20of%20Context%20Aware%20Applications%20for%20Strength%20Training.pdf), and this is a summary of our additions to the project with my team:
   
@@ -27,7 +27,7 @@ Rate)
 * **Project article:** [Project Paper Link](https://medium.com/@monaanafe3/smart-strength-training-tracker-ef6fc68c5fda)
 
 * **Project Website:** [Project Website Link](https://aem-fitness-app.onrender.com/)
-
+----
 
 ### [Tech Skills Map](https://github.com/Veto2922/Tech_Skills_Map-End-to-End-data-science-project-)
 * This application helps you find the most suitable job based on your technological skills. Additionally, it suggests skills to develop further in your chosen field.
@@ -35,12 +35,12 @@ Rate)
 * **Project article**: [Medium](https://medium.com/@abdelrahman.m2922/skillsmap-end-to-end-data-science-project-5be5b3062f74)
 * project web site : [SteamLit](https://techskillsmap.streamlit.app/)
 
-
+----
 
 ### [Hybrid-based Book Recommendation System](https://github.com/Veto2922/hybrid-based-book-recommender-systems)
 * The Hybrid-based Book Recommendation System encompasses an end-to-end development process, incorporating data exploration, cleaning, and the implementation of both content-based and collaborative filtering recommendation systems using Python.
 * **Project article**: [Medium](https://medium.com/@abdelrahman.m2922/book-recommendation-system-fa510e2d5a24)
-
+----
 ### [Movie Recommendation System](https://github.com/Veto2922/Movie-Recommender-System-content-based-)
 * This project is dedicated to constructing an advanced movie recommendation system by leveraging popularity and content-based filtering. The model integrates diverse data features, such as genres, cast, crew, overview, release year, runtime, keywords, vote average, and director information, obtained from a comprehensive dataset of several thousand films. The recommendation system employs advanced techniques like cosine similarity and Euclidean distance to enhance the accuracy and personalization of movie suggestions.
 * project steps : Features selection ,Data cleaning ,Feature Engineering ,Data preprocessing  , Similarity Matrix ,prediction app ,Deployment
