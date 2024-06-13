@@ -175,7 +175,10 @@ The model architecture includes an Embedding layer and a GRU layer.
 After training, the model can generate text based on given starting seeds.
 This approach facilitates the generation of coherent text sequences.
 
+* __[Seq2seq Translation model with LSTM implementation](https://colab.research.google.com/drive/1Ffg3WFRfRFoo-CNLidxCDbtO4jFEwcp0?usp=sharing)__
 
+* __[Seq2seq Translation model with LSTM + Attention implementation](https://colab.research.google.com/drive/1B7tMIEDccE4WGBhwci-yIqXADdu_pXav?usp=sharing)__
+  
 
 
 <!--
