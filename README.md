@@ -179,7 +179,7 @@ This approach facilitates the generation of coherent text sequences.
 
 * __[Seq2seq Translation model with LSTM + Attention implementation](https://colab.research.google.com/drive/1B7tMIEDccE4WGBhwci-yIqXADdu_pXav?usp=sharing)__
   
-
+* __[Transformers Implementation From scratch](https://colab.research.google.com/drive/1YqtJiJrpaPWtKueitdSCLb1v7tLYhqPZ?usp=sharing)__
 
 <!--
 **Veto2922/veto2922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
