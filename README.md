@@ -181,6 +181,17 @@ This approach facilitates the generation of coherent text sequences.
   
 * __[Transformers Implementation From scratch](https://colab.research.google.com/drive/1YqtJiJrpaPWtKueitdSCLb1v7tLYhqPZ?usp=sharing)__
 
+* __[Text Classification With BERT huggingface](https://www.kaggle.com/code/abdalrahminmohammed/bert-fine-tuning-with-huggingface)__:
+    -Leaderboard Score: 0.99872 (first in the Leaderboard )
+  
+   - Loaded the pre-trained `distillery-base-uncased` model for sequence classification.
+   - Set up training arguments and fine-tuned the model using a `Trainer` object.
+   - Trained the model on the tokenized datasets and evaluated it using accuracy and F1 score metrics.
+   - Predicted on the validation set in batches, calculated evaluation metrics (confusion matrix, classification report, F1 score).
+   - Achieved high accuracy and F1 score on the validation set, indicating a well-performing model.
+   
+ 
+
 <!--
 **Veto2922/veto2922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
