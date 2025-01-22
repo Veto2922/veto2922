@@ -2,6 +2,14 @@
 
 # Data Science Portfolio  #
 
+## GEN AI Projects ##
+
+### [chat with multiple PDFs](https://github.com/Veto2922/Chat-with-pdfs/tree/main)
+* You can upload any number of pdfs and ask questions about them.
+
+### [RAG Powered Arabic AI Assistant](https://github.com/Veto2922/RAG-Powered-Arabic-AI-Assistant)
+* This project is an AI-powered QA assistant that leverages Retrieval-Augmented Generation (RAG) to provide accurate and contextually relevant answers to customer questions in Arabic. The assistant retrieves relevant information from the SANAD dataset, combines it with generative AI capabilities, and delivers precise and detailed responses across various domains like technology, politics, sports, and more.
+
 ## End to End Projects ##
 
 ### [Web Application Firewall based on ML and NLP](https://github.com/Veto2922/Web-Application-Firewall-based-on-ML-and-NLP)
