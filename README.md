@@ -4,7 +4,12 @@
 
 ## GEN AI Projects ##
 
-### [chat with multiple PDFs](https://github.com/Veto2922/Chat-with-pdfs/tree/main)
+### [Egyptian Tourism Guide - Multimodal AI Assistant](https://github.com/Veto2922/Egyptian-Tourism-Guide-Multimodal-Agent-/tree/main)
+* A sophisticated multimodal AI assistant designed to help tourists explore the wonders of Egypt through a rich, interactive interface.
+* This agent leverages cutting-edge generative AI to understand text, voice, and images, providing comprehensive guidance on attractions, cuisine, transportation, and more.
+
+
+### [Chat with multiple PDFs](https://github.com/Veto2922/Chat-with-pdfs/tree/main)
 * You can upload any number of pdfs and ask questions about them.
 
 ### [RAG Powered Arabic AI Assistant](https://github.com/Veto2922/RAG-Powered-Arabic-AI-Assistant)
